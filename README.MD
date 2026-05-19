@@ -41,8 +41,8 @@ AI-powered article generation project using automation tools and LLM workflows.
 ### 🔹 Attendance Management System
 Track attendance, arrival/departure time, payments, and student communication.
 
-### 🔹 Diet Progress Tracker
-A Streamlit-based application for tracking diet and fitness progress.
+### 🔹 RAG-web-scraper-using-Langchain-Ollama-ChromaDB
+A RAG based scraper using local LLM model and vectorDB
 
 ---
 
