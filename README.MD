@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Verma</h1>
-<h3 align="center">AI-ML Developer | Python Developer | Full Stack Developer</h3>
+<h3 align="center">AI-ML | Python | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+AI+Projects;Python+Developer;Learning+Full+Stack+Development;Open+Source+Contributor" alt="Typing SVG" />
